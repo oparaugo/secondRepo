@@ -1,0 +1,11 @@
+cd: changing directory
+pwd: shows the current repository you are.
+cd DEsktop: change directory to desktop
+git clone: to link files
+ls: list files
+git status: checks if the document that are on the folder have been added
+git add: to add files that are not no the staged area to the stage area
+git commit: it is used to commit on a file
+git config: it is used to configure file
+git pust: it is used to push file from the local work space to the github space
+history: to display the record of all the commands that have been used.
